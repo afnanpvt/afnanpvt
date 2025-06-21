@@ -17,7 +17,7 @@ I architect and build **backends that don’t just work — they scale, secure, 
 |------------------|----------------------------------------------------------------------|
 | **Core**         | Java (17+), Spring Boot, Spring Security, JPA/Hibernate              |
 | **IAM**          | SailPoint IdentityNow, AWS Cognito, JWT/OAuth2 flows                 |
-| **Database**     | PostgreSQL (JSONB, constraints, audit trails), MySQL                 |
+| **Database**     | PostgreSQL, MySQL                 |
 | **Infra/DevOps** | Maven, Git, GitHub Actions, Docker (dev use only)                    |
 | **Cloud**        | AWS EC2, S3, SES, RDS                                                |
 
