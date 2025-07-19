@@ -1,4 +1,4 @@
-##  Hey, I'm Afnan — a Developer Obsessed with Structure, Security & Simplicity
+##  Hey, I'm Afnan- a Developer Obsessed with Structure, Security & Simplicity
 
 I architect and build **backends that don’t just work- they scale, secure, and sustain**.
 
