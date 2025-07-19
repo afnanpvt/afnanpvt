@@ -1,13 +1,13 @@
 ##  Hey, I'm Afnan — a Developer Obsessed with Structure, Security & Simplicity
 
-I architect and build **backends that don’t just work — they scale, secure, and sustain**.
+I architect and build **backends that don’t just work- they scale, secure, and sustain**.
 
 > If an app *just works*, it’s not done yet.  
 > If it *works under pressure*, then we’re talking.
 
 ---
 
- I'm intentional about **clean architecture**, **auditability**, and **developer traceability** — especially when it matters most.
+ I'm intentional about **clean architecture**, **auditability**, and **developer traceability** - especially when it matters most.
 
 ---
 
@@ -25,7 +25,7 @@ I architect and build **backends that don’t just work — they scale, secure, 
 
 ## Guiding Principles I believe in.
 
-- Build traceable systems — if you can’t trace it, you can’t trust it.
+- Build traceable systems- if you can’t trace it, you can’t trust it.
 - Don't just code; **create narratives in architecture**.
 - First make it exist, then make it great.
 
