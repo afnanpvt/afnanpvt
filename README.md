@@ -41,5 +41,5 @@ I architect and build **backends that don’t just work- they scale, secure, and
 
 ---
 
-- **LinkedIn**: [www.linkedin.com/in/mohammad-afnan-82a9222a4](https://www.linkedin.com/in/mohammad-afnan-82a9222a4)
+- **LinkedIn**: [www.linkedin.com/in/afnan-profile](www.linkedin.com/in/afnan-profile)
 - **Email**: mohammedafnanpvt@gmail.com
