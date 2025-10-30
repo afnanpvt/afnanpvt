@@ -31,15 +31,13 @@ I'm intentional about **clean architecture**, **auditability**, and **developer 
 
 ---
 
-## GitHub Stats & Contributions
+## Contributions
 
 <p align="center">
-  <!-- Core Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=afnanpvt&show_icons=true&theme=github_dark&count_private=true&hide=prs" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanpvt&theme=github-dark" height="165" />
-  <br /><br />
-  <!-- Contribution Activity Graph (Green Theme) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnanpvt&bg_color=0d1117&color=22c55e&line=16a34a&point=22c55e&area=true&hide_border=true&custom_title=2025%20Contribution%20Graph" alt="Afnan's Contribution Graph" />
+  <!-- GitHub Contribution Calendar -->
+  <a href="https://github.com/afnanpvt">
+    <img src="https://ghchart.rshah.org/22c55e/afnanpvt" alt="Contribution Chart ;)" />
+  </a>
 </p>
 
 ---
@@ -48,9 +46,3 @@ I'm intentional about **clean architecture**, **auditability**, and **developer 
 
 - **LinkedIn:** [www.linkedin.com/in/afnan-profile](https://www.linkedin.com/in/afnan-profile)  
 - **Email:** [mohammedafnanpvt@gmail.com](mailto:mohammedafnanpvt@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=Building+traceable+systems...;Scaling+secure+backends...;Architecting+with+intent." alt="Typing Animation" />
-</p>
