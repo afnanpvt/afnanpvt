@@ -19,7 +19,7 @@ I architect and build **backends that don’t just work- they scale, secure, and
 | **IAM**          | SailPoint IdentityIQ, AWS Cognito, JWT/OAuth2 flows                 |
 | **Database**     | PostgreSQL, MySQL                 |
 | **Infra/DevOps** | Maven, Git, GitHub Actions, Docker (dev use only)                    |
-| **Cloud**        | AWS EC2, S3, SES, RDS                                                |
+| **Cloud**        | AWS EC2, S3, lightsail                                               |
 
 ---
 
