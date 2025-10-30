@@ -25,7 +25,7 @@ I'm intentional about **clean architecture**, **auditability**, and **developer 
 
 ## Guiding Principles
 
-- Build **traceable systems** — if you can’t trace it, you can’t trust it.  
+- Build **traceable systems** - if you can’t trace it, you can’t trust it.  
 - Don’t just code; **create narratives in architecture.**  
 - First make it exist. Then make it great.
 
