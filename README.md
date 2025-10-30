@@ -37,12 +37,9 @@ I'm intentional about **clean architecture**, **auditability**, and **developer 
   <!-- Core Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=afnanpvt&show_icons=true&theme=github_dark&count_private=true&hide=prs" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanpvt&theme=github-dark" height="165" />
-  <br />
-  <!-- Contribution Graph (Green Boxes) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnanpvt&theme=github&hide_border=true&bg_color=ffffff&color=006400&line=228B22&point=32CD32&area=true&custom_title=2025%20Contributions%20Graph" />
-  <br />
-  <!-- Animated Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/afnanpvt/afnanpvt/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <br /><br />
+  <!-- Contribution Activity Graph (Green Theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnanpvt&bg_color=0d1117&color=22c55e&line=16a34a&point=22c55e&area=true&hide_border=true&custom_title=2025%20Contribution%20Graph" alt="Afnan's Contribution Graph" />
 </p>
 
 ---
@@ -54,7 +51,6 @@ I'm intentional about **clean architecture**, **auditability**, and **developer 
 
 ---
 
-<!-- Optional subtle animation footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=228B22&center=true&vCenter=true&width=440&lines=Building+traceable+systems...;Scaling+secure+backends...;Architecting+with+intent.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=Building+traceable+systems...;Scaling+secure+backends...;Architecting+with+intent." alt="Typing Animation" />
 </p>
